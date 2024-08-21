@@ -1,6 +1,6 @@
 // ========== Question 1 ========== //
 
-let carName = "Voivo";
+let carName = "Volvo";
 
 
 
